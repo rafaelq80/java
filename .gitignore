@@ -1,0 +1,49 @@
+# ================================
+# Arquivos comuns de Java
+# ================================
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# ================================
+# Pastas de build/output
+# ================================
+bin/
+build/
+target/
+out/
+
+# ================================
+# Eclipse / Spring Tool Suite (STS)
+# ================================
+.classpath
+.project
+.settings/
+.springBeans
+.factorypath
+.metadata/
+
+# ================================
+# IntelliJ IDEA
+# ================================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# ================================
+# VS Code
+# ================================
+.vscode/
+
+# ================================
+# Arquivos de sistema (Windows / macOS / Linux)
+# ================================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.swp
+*.swo
